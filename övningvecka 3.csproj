@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include=".github\FileName.csPULL_REQUEST_TEMPLATE.md" />
+    <None Include=".github\pull_request_template.md" />
   </ItemGroup>
 
 </Project>
