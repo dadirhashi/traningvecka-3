@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include=".github\FileName.csPULL_REQUEST_TEMPLATE.md" />
+  </ItemGroup>
+
 </Project>
