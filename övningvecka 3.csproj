@@ -10,6 +10,11 @@
 
   <ItemGroup>
     <None Include=".github\pull_request_template.md" />
+    <None Include=".github\workflow\pull_request_check.yml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include=".github\workFlow\" />
   </ItemGroup>
 
 </Project>
